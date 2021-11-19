@@ -2,7 +2,7 @@
 
 This project I created during taking course on Udemy. I used React JS and module css to implement this project.
 
-Link: https://quotesapp-ef4e9.web.app/quotes
+Link: https://react-cafeapp.web.app/
 
 ## To run the project Scripts
 
